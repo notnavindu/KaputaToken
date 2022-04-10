@@ -2,6 +2,8 @@
 
 A useless cryptocurrency, built for no reason.
 
+Buy $KAPUTA [here](https://kaputa-token.vercel.app/)
+
 $KAPUTA is ERC-20 Token deployed on the Rinkeby test network.
 
 [origin](https://youtu.be/lSpFnlOM5aw?t=40)
