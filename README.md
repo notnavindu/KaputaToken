@@ -1,6 +1,8 @@
 # $KAPUTA Token + ICO Contract
 
-An ERC-20 Token built for no reason. $KAPUTA is deployed on the Rinkeby test network.
+A useless cryptocurrency, built for no reason.
+
+$KAPUTA is ERC-20 Token deployed on the Rinkeby test network.
 
 [origin](https://www.youtube.com/watch?v=lSpFnlOM5aw)
 
@@ -10,6 +12,7 @@ An ERC-20 Token built for no reason. $KAPUTA is deployed on the Rinkeby test net
 - [x] $KAPUTA Token Contract
 - [x] Token Sale Contract
 - [ ] Token Sale Website
+- [ ] Logos and stuff
 
 ## Contracts
 

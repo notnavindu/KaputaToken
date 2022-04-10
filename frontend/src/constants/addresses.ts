@@ -1,0 +1,2 @@
+export const TOKEN_SALE_ADDRESS = '0xFd9fdB988155a2a5801ACcEEE7D63100DD91fC21';
+export const TOKEN_ADDRESS = '0xd1215eaccbe536f1994e13aedfdcad0af43dba2e';
