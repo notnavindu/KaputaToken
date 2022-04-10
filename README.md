@@ -19,6 +19,19 @@ You can find the deployed contracts on these addresses in the Rinkeby test net
 - **$KAPUTA Token** - [token/0xd1215EACcbe536F1994e13aedfdCaD0Af43DbA2e](https://rinkeby.etherscan.io/token/0xd1215EACcbe536F1994e13aedfdCaD0Af43DbA2e)
 - **Token Sale Contract** - [0xFd9fdB988155a2a5801ACcEEE7D63100DD91fC21](0xFd9fdB988155a2a5801ACcEEE7D63100DD91fC21)
 
+## Tech Stack & Tools
+
+- **Smart Contracts** - Solidity, Truffle, Ganache, Metamask
+- **Frontend**
+
+## Directories
+
+📂 `contracts` - Solidity files of the contracts
+
+📂 `migrations` - Migration scripts used to deploy the smart contracts
+
+📂 `test` - Test cases to test the smart contracts using truffle
+
 ## Future
 
 There is no future.
