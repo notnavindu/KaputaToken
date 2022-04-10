@@ -133,7 +133,15 @@
 </script>
 
 <main class="w-full min-h-screen py-8 px-4 flex flex-col items-center bg-zinc-100">
-	<div class="text-4xl font-bold">$KAPUTA Token ICO</div>
+	<div class="text-4xl font-bold">
+		<a
+			href="https://youtu.be/lSpFnlOM5aw?t=40"
+			class="underline underline-offset-2 cursor-pointer"
+			target="_blank"
+		>
+			$KAPUTA
+		</a> Token ICO
+	</div>
 	<div class="text-sm">A completely useless cryptocurrency.</div>
 
 	<div class="mt-8 text-2xl">1 $KAPUTA = {tokenPrice} ETH</div>
