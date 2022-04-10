@@ -1,0 +1,99 @@
+Compiling your contracts...
+===========================
+> Compiling .\contracts\KaputaToken.sol
+> Compiling .\contracts\KaputaTokenSale.sol
+> Compiling .\contracts\Migrations.sol
+
+> Artifacts written to S:\KaputaToken\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.13+commit.abaa5c0e.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xe0680c4351ce412804fc65e0a446776b58bc192b9f1c4d25e748a6c514459960
+   > Blocks: 1            Seconds: 9
+   > contract address:    0x9094084d626D400023FC1d79E6E681a62EBb98E9
+   > block number:        10480018
+   > block timestamp:     1649593706
+   > account:             0x36daC97B647b39587a65069D5B9425d712F78089
+   > balance:             3.689302216111914648
+   > gas used:            250154 (0x3d12a)
+   > gas price:           2.500000011 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000625385002751694 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 10480019)
+   > confirmation number: 2 (block: 10480020)
+   ✓ Saving migration to chain.
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000625385002751694 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'KaputaToken'
+   -----------------------
+   > transaction hash:    0x55c3e03d000e5ed8e9dc19328ae360080bfd1ff396616298b55e3d99bf57cc8a
+   > Blocks: 1            Seconds: 9
+   > contract address:    0xd1215EACcbe536F1994e13aedfdCaD0Af43DbA2e
+   > block number:        10480022
+   > block timestamp:     1649593766
+   > account:             0x36daC97B647b39587a65069D5B9425d712F78089
+   > balance:             3.686978708602620618
+   > gas used:            883490 (0xd7b22)
+   > gas price:           2.50000001 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0022087250088349 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 10480023)
+   > confirmation number: 2 (block: 10480024)
+
+   Deploying 'KaputaTokenSale'
+   ---------------------------
+   > transaction hash:    0x8233c23fbdae278abbf2ca2a27bfd08fe6da56a7ea0f2819a3fceccac7263315
+   > Blocks: 1            Seconds: 13
+   > contract address:    0xFd9fdB988155a2a5801ACcEEE7D63100DD91fC21
+   > block number:        10480025
+   > block timestamp:     1649593811
+   > account:             0x36daC97B647b39587a65069D5B9425d712F78089
+   > balance:             3.685422341096395148
+   > gas used:            622547 (0x97fd3)
+   > gas price:           2.50000001 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00155636750622547 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 10480026)
+   > confirmation number: 2 (block: 10480027)
+   ✓ Saving migration to chain.
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.00376509251506037 ETH
+
+Summary
+=======
+> Total deployments:   3
+> Final cost:          0.004390477517812064 ETH
