@@ -8,6 +8,10 @@ $KAPUTA is ERC-20 Token deployed on the Rinkeby test network.
 
 [origin](https://youtu.be/lSpFnlOM5aw?t=40)
 
+## How to buy $KAPUTA
+
+Instructions on how to buy $KAPUTA can be found [here](https://github.com/notnavindu/KaputaToken/blob/main/HOWTO.md)
+
 ## Road map
 
 - [x] Yell "Go Home Gota"
